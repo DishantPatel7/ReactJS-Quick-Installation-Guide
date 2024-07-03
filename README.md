@@ -6,9 +6,9 @@
 
 Link [--> Vite App Guide](https://vitejs.dev/guide/)
 
-```
-**npm create vite@latest**
-```
+**```
+npm create vite@latest
+```**
 
 ### **Step 2 : npm install**
 
