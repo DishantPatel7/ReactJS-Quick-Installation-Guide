@@ -6,17 +6,14 @@
 
 Link [--> Vite App Guide](https://vitejs.dev/guide/)
 
-**
 ```
 npm create vite@latest
 ```
-**
 
 ### **Step 2 : npm install**
 
 ```
 npm i
-
 ```
 
 ### **Step 3 : Tailwind install**
@@ -27,7 +24,6 @@ Link [--> Tailwind](https://tailwindcss.com/docs/guides/vite)
 
 ```
 npm install -D tailwindcss postcss autoprefixer
-
 ```
 
 ```
