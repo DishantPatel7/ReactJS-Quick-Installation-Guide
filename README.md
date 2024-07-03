@@ -2,7 +2,7 @@
 
 # For Vite App + Tailwind
 
-### Step 1 : create file
+### **Step 1 : create file**
 
 Link [--> Vite App Guide](https://vitejs.dev/guide/)
 
@@ -10,14 +10,14 @@ Link [--> Vite App Guide](https://vitejs.dev/guide/)
 npm create vite@latest
 ```
 
-### Step 2 : npm install
+### **Step 2 : npm install**
 
 ```
 npm i
 
 ```
 
-### Step 3 : Tailwind install
+### **Step 3 : Tailwind install**
 
 Link [--> Tailwind](https://tailwindcss.com/docs/guides/vite)
 
@@ -32,7 +32,7 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-### Step 4 : Add to tailwind.config.js file
+### **Step 4 : Add to tailwind.config.js file**
 
 ```
 /** @type {import('tailwindcss').Config} */
@@ -49,7 +49,7 @@ export default {
 
 ```
 
-### Step 5 : index.css
+### **Step 5 : index.css**
 
 ```
 @tailwind base;
@@ -57,7 +57,7 @@ export default {
 @tailwind utilities;
 ```
 
-### Step 6 : Prettier Install
+### **Step 6 : Prettier Install**
 
 Link [-->Tailwind X Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 
@@ -67,7 +67,7 @@ Link [-->Tailwind X Prettier](https://tailwindcss.com/blog/automatic-class-sorti
 npm install -D prettier prettier-plugin-tailwindcss
 ```
 
-### Step 7 : Create Prettier File
+### **Step 7 : Create Prettier File**
 
 #### File Name .prettierrc.json
 
@@ -83,13 +83,13 @@ npm install -D prettier prettier-plugin-tailwindcss
 }
 ```
 
-### Step 8 : Open in VSCode
+### **Step 8 : Open in VSCode**
 
 ```
 code .
 ```
 
-### Step 9 : Start App
+### **Step 9 : Start App**
 
 ```
 npm run dev
