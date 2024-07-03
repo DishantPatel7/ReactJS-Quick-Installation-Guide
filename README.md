@@ -1,9 +1,4 @@
-
 # React App Fast Installation Steps  
-
-
-
-
 # For Vite App + Tailwind
 ## Step 1 : create file
 
