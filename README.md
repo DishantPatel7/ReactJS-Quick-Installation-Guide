@@ -89,3 +89,23 @@ code .
 ```
 npm run dev
 ```
+
+# Also Install library below
+
+### 1. Framer Motion
+`Link` --> [Framer Motion](https://www.framer.com/motion/introduction/)
+#### Install
+```
+npm i framer-motion
+```
+#### Import
+```
+import { motion } from "framer-motion"
+```
+
+### 2. React Icon
+`Link` --> [React-Icon](https://react-icons.github.io/react-icons/)
+#### Install
+```
+npm i react-icons --save
+```
