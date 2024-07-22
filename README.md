@@ -30,7 +30,7 @@ npx tailwindcss init -p
 
 #### Add to tailwind.config.js file
 
-```
+```diff
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
